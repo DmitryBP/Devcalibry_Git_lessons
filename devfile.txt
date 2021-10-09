@@ -1,1 +1,2 @@
 hellow devcolibry 
+Это текст в ветке dev 
